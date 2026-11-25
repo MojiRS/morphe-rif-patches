@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-11-22T01:31:36",
-  "description": "Test build, not a release. For stable builds use the main branch.\n\n- Needs Patcheddit 2.5.0.\n- Dropped patches Patcheddit 2.5.0 now covers: Explain Reddit blocks, Post to profile, Fix history import, Fix broken markdown links, Fix comment video links, Fix YouTube videos, YouTube player controls.\n- Inline comment images: with Patcheddit's Inline media, only tables (no doubled images or videos).\n",
-  "download_url": "https://raw.githubusercontent.com/MojiRS/morphe-rif-patches/test-builds/patches-1.10.0-dev8.mpp",
+  "created_at": "2026-11-25T03:12:35",
+  "description": "Test build, not a release. For stable builds use the main branch.\n\n- Next to Patcheddit's Inline media, the Tables settings now include \"Long press media to select comment\" and its delay.\n",
+  "download_url": "https://raw.githubusercontent.com/MojiRS/morphe-rif-patches/test-builds/patches-1.10.1-dev4.mpp",
   "public_key": "WdMhrpPUFiLcKzKttCmc0ecGsrf2YvabgV/CqgYp1Z8=",
-  "version": "1.10.0-dev8"
+  "version": "1.10.1-dev4"
 }
